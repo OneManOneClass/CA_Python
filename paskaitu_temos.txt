@@ -11,9 +11,10 @@
 11. GUI
 12. Logging
 13. Virtuali aplinka (venv), paleidžiamieji failai (.exe)
+14.
 
 
-
+Test
 
 
 
