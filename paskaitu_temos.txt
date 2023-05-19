@@ -1,0 +1,29 @@
+1. Kintamieji, if sąlyga
+2. Masyvai, ciklai
+3. Data, laikas, išimtys
+4. Funkcijos
+5. OOP 1
+6. OOP 2
+7. Files & Folders
+8. Triukai su sąrašais
+9. Modulių import
+10. set(), get(), debugging
+11. GUI
+12. Logging
+13. Virtuali aplinka (venv), paleidžiamieji failai (.exe)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+for i in range(1, 6):
+    open(f'{i}_uzduotis.py', 'x')
