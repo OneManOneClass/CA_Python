@@ -1,0 +1,17 @@
+2023-05-23 11:29:13,398 : ERROR : Funkcijai square_root perduotas neigiamas skaičius! (-16)
+Traceback (most recent call last):
+  File "D:\Mokslai\Code Academy\Python\Class projects\paskaitos\12_paskaita\3_uzduotis.py", line 23, in square_root
+    result = sqrt(x)
+ValueError: math domain error
+2023-05-23 11:29:13,399 : INFO : SQRT(16) = 4.0
+2023-05-23 11:29:13,399 : INFO : 10 / 2 = 5.00
+2023-05-23 11:29:13,399 : ERROR : Dalyba iš 0 negalima!
+Traceback (most recent call last):
+  File "D:\Mokslai\Code Academy\Python\Class projects\paskaitos\12_paskaita\3_uzduotis.py", line 34, in division
+    result = x / y
+ZeroDivisionError: division by zero
+2023-05-23 11:29:13,399 : ERROR : Funkcijai perduotas ne skaičius!
+Traceback (most recent call last):
+  File "D:\Mokslai\Code Academy\Python\Class projects\paskaitos\12_paskaita\3_uzduotis.py", line 34, in division
+    result = x / y
+TypeError: unsupported operand type(s) for /: 'int' and 'str'

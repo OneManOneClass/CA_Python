@@ -1,0 +1,9 @@
+2023-05-23 11:23:03,878 : INFO : Suma 17.22
+2023-05-23 11:23:03,878 : INFO : Funkcijai sum_nums perduotas ne skaičius!
+2023-05-23 11:23:03,878 : INFO : Funkcijai square_root perduotas neigiamas skaičius! (-16)
+2023-05-23 11:23:03,878 : INFO : SQRT(16) = 4.0
+2023-05-23 11:23:03,878 : INFO : Duotame sakinyje Random test text rasta(i) 16 simbolių(ai)
+2023-05-23 11:23:03,878 : INFO : Funkcijai s_count perduotas ne tekstas! (123)
+2023-05-23 11:23:03,878 : INFO : 10 / 2 = 5.00
+2023-05-23 11:23:03,878 : INFO : Dalyba iš 0 negalima!
+2023-05-23 11:23:03,878 : INFO : Funkcijai perduotas ne skaičius!

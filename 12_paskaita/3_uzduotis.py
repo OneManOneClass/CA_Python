@@ -5,6 +5,7 @@
 import logging
 from math import sqrt
 
+
 logger = logging.getLogger(__name__)
 file_handler = logging.FileHandler('12p3uzd.log', encoding='UTF-8')
 logger.addHandler(file_handler)
@@ -40,8 +41,8 @@ def division(x, y):
         logger.exception("Funkcijai perduotas ne skaičius!")
 
 
-print(square_root(-16))
-print(square_root(16))
-print(division(10, 2))
-print(division(10, 0))
-print(division(10, 'a'))
+square_root(-16)
+square_root(16)
+division(10, 2)
+division(10, 0)
+division(10, 'a')
