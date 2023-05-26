@@ -32,7 +32,7 @@ from tkinter import *
 root = Tk()  # create new window
 root.title("11 Paskaita")  # window title
 root.geometry("350x150+800+300")  # window size, position
-root.iconbitmap(r'D:\Mokslai\Code Academy\Python\Class projects\paskaitos\13_paskaita\3_uzduotis.ico')
+root.iconbitmap(r'D:\Mokslai\Code Academy\Python\Class projects\paskaitos\13_paskaita\3_uzduotis.ico') # 'r' = string modifier
 name = StringVar("")
 
 
