@@ -1,0 +1,49 @@
+3.21.0c Patch Notes
+
+This patch disables lower-tier Crucible Passives that have downsides from rolling, and contains updates to the Crucible Forge user interface, as well as a number of other improvements and bug fixes.
+
+Crucible Changes
+
+    Added an indicator to the Crucible Forge user interface which displays the relative difficulty for the amount of channelling you have done, and how close you are to fully-channelling the encounter.
+    Disabled most of the lower-tier Crucible Passives that have downsides on the initial skill from rolling. Initial skills with downsides are far less common and can generally only roll in the endgame. When an initial skill does come with a downside, the upside should outweigh the downside.
+    The Crucible Passive that granted Weapon Elemental Damage and cannot Inflict Elemental Ailments can no longer roll.
+    Unique Items obtained by selling an item with a Crucible Passive Tree now come with their own Crucible Passive Tree, with the first skill allocated.
+    Crucible Passive Tree Skills that cause the item to sell for an additional Unique Item can no longer be transferred onto other unrelated Base Types by combining Crucible Passive Trees.
+    Updated the explode visuals for the Crucible Passive Tree skill that causes Totems to Explode on Death to be more appropriate.
+
+
+General Improvements
+
+    The Caster Passive Skill Mastery which provides a chance to open nearby Chests when you Cast a Spell no longer opens Curio Displays in Heist.
+    The Heist Locker Hideout decoration is now unlocked when you first visit the Rogue Harbour in a League, rather than upon completing The Rogue Harbour quest.
+    The "Flasks you Use apply to Linked Targets" modifier on the Ceinture of Benevolence Unique Belt has been re-enabled, it now only applies to Non-Unique Utility Flasks you Use. We've also enabled this Belt to drop again.
+    Updated an Armour Passive Skill Mastery description to clarify it provides maximum Elemental Resistances if Equipped Helmet, Body Armour, Gloves, and Boots all have Armour (previously stated maximum Resistances).
+    Updated the description of the Spreading Strength Challenge to clarify it is completed upon fully allocating Crucible Passive Skill Trees on items with specific maximum depths.
+    Improved the Crucible Forge and Crucible Passive Tree user interfaces for Controller Input mode.
+
+
+Bug Fixes
+
+    Fixed a bug where some Crucible Passives that allow you to sell the item in exchange for a Unique Item were instead rewarding a Rare Item.
+    Fixed a bug where vendoring an item with a Crucible Passive Tree could interrupt expected vendor recipes.
+    Fixed a bug where Corrupted Items could not be combined at the Forge of the Titans in areas opened from Primordial Remnants.
+    Fixed a bug where the Forged Warrior Crucible Monster was dealing more damage than intended with their Geyser skill.
+    Fixed some instances where the tooltip for Crucible passives which allocate a Passive Skill Tree Notable could extend off-screen.
+    Fixed a bug where the "Armour from Equipped Body Armour is doubled" stat from the Juggernaut's Unbreakable Ascendancy Passive Skill was incorrectly applying a 100% increase instead.
+    Fixed a bug where the "Armour from Equipped Body Armour is doubled" stat was not doubling Evasion from your Body Armour when the Iron Reflexes Keystone Passive Skill was allocated.
+    Fixed a bug where the "increased Armour against Projectiles" modifier did not interact correctly with sources of base Armour or other modifiers, including the Juggernaut's Unbreakable Ascendancy Passive Skill.
+    Fixed a bug where Vaal Domination was not taking rarity into account when choosing which Sentinel to Ascend.
+    Fixed a bug where the stat on Phantasmal Lightning Tendrils that causes stronger pulses to deal more Damage with Hits and Ailments was not functioning correctly.
+    Fixed a bug where Explorer's Scouting Reports were not rerolling Kirac's Atlas Missions correctly.
+    Fixed a bug where the Bestiary Blood Altar user interface would never load in Controller Input mode.
+    Fixed a bug where dynamic culling for Rage Vortex was too aggressive.
+    Fixed a bug where searching for Maps on the Bulk Item Exchange section of the Path of Exile: Trade website was not working correctly.
+    Fixed a bug where skill effect microtransactions could not be applied to skills granted by unique items that do not have a skill gem.
+    Fixed a bug where part of the Lithomancer's Body Armour was missing on all classes except the Witch.
+    Fixed a bug with the visuals of the Harlequin Portal Effect microtransaction.
+    Fixed an instance crash.
+    Fixed a client crash.
+
+
+
+This patch was deployed without restarting the servers, so you will need to restart your client to receive the client changes.

@@ -14,7 +14,7 @@
 14. Regex I
 15. Regex II
 16. Dekoratoriai
-17.
+17. Iteratoriai, generatoriai
 
 
 
